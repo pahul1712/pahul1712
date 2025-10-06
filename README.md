@@ -86,7 +86,7 @@ I care about **clean experimentation**, **clear metrics**, and **pragmatic deplo
 
 ---
 
-## ⭐ Selected Projects (live repos)
+## ⭐ Top Projects (live repos)
 
 - **[Agentic-SmartSearch-Engine](https://github.com/pahul1712/Agentic-SmartSearch-Engine)** — Multi-agent, tool-augmented search (DuckDuckGo, ArXiv, Wikipedia) with LLM reasoning (LangChain + Groq).  
 - **[Conversational-RAG-PDF-Chatbot](https://github.com/pahul1712/Conversational-RAG-PDF-Chatbot)** — Chat with your PDFs, full chat history, Chroma vector store, HuggingFace embeddings.  
