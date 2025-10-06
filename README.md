@@ -1,5 +1,18 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=180&text=Pahuldeep%20Singh%20Dhingra&fontAlign=50&fontColor=ffffff&fontSize=36&animation=fadeIn" width="100%" />
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h1>Hi, I'm <strong>Pahuldeep</strong>🙃</h1>
+      </td>
+      <td>
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3MzbXUzOTNub3gxZHJ6bWs0Yzk0MmEyMGs4MjJtaWtudjh1bG5vOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="250" alt="AI GIF">
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com/demo/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&center=true&vCenter=true&width=1000&lines=Data+Scientist+%7C+AI%2FML+Engineer+%7C+Generative+AI;RAG+%2F+Agents+%2F+LangChain+%2F+LangSmith;LLMs%2C+Transformers%2C+NLP%2C+Computer+Vision;Always+building%2C+learning%2C+and+shipping." alt="Typing SVG" /></a>
@@ -15,7 +28,7 @@
 
 ---
 
-### 👋 Hi, I'm Pahuldeep
+### 👨‍🎓 About Me:
 I enjoy working with real-world data and building products end-to-end — from cleaning and understanding the data to creating LLM apps, RAG systems, agentic tools, and machine learning models that solve real problems. 
 I care about **clean experimentation**, **clear metrics**, and **pragmatic deployment**.
 
