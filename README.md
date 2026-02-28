@@ -101,11 +101,6 @@ I care about **clean experimentation**, **clear metrics**, and **pragmatic deplo
 ## 📈 By the numbers
 
 <p align="center">
-  <img alt="GitHub Stats" height="170" src="https://github-readme-stats.vercel.app/api?username=pahul1712&show_icons=true&hide_title=true&rank_icon=percentile&include_all_commits=true&hide_border=true&theme=transparent" />
-  <img alt="Top Langs" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pahul1712&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
-<p align="center">
   <img alt="Streak" src="https://streak-stats.demolab.com?user=pahul1712&theme=transparent&hide_border=true" />
 </p>
 
